@@ -12,12 +12,12 @@ Feature: Wiki Search Functionality
       | Elon Musk        |
       | Bill Gates       |
       | Johny Depp       |
-      | Post Malone      |
-      | Jack Harlow      |
-      | Lil Baby         |
-      | bob the builder  |
-      | Jennifer Lopez   |
-      | Robert downey jr |
-      | Irina Shayk      |
-      | Kobe Bryant      |
-      | Piero Manzoni    |
+      #| Post Malone      |
+      #| Jack Harlow      |
+      #| Lil Baby         |
+      #| bob the builder  |
+      #| Jennifer Lopez   |
+      #| Robert downey jr |
+      #| Irina Shayk      |
+      #| Kobe Bryant      |
+      #| Piero Manzoni    |
